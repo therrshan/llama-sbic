@@ -1,6 +1,7 @@
 # llama-sbic
 
-Finetuning LLAMA-2 7B model on SBIC dataset for exploring it as an alternative for manual annotation. 
-Code adapted from multiple online resources and huggingface documentation for LLAMA-2 7B from Meta.
+In the realm of complex task annotation, conventional methods often rely on human annotation, leading to potential biases and resource constraints. This study presents an innovative approach by fine-tuning Large Language Models on domain specific data as alternatives to manual annotation. Focusing on implied bias classification, a pivotal task in natural language understanding, the study explores the effectiveness of fine-tuned LLMs in generating annotations compared to baseline models. 
 
-Huggingface cli needs to be logged in before executing the code and access to the 'meta-llama/Llama-2-7b-hf' model is required on your huggingface account. You can request for the access from huggingface website. It is usually processed within 2-3 days.
+## Dataset
+
+The research utilizes the Social Bias Inference Corpus (SBIC), a comprehensive dataset containing over 150,000 annotated social media posts covering biases against various demographic groups. This dataset captures a wide range of social biases, both subtle and overt, providing a robust foundation for training and evaluation.
