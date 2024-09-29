@@ -18,4 +18,5 @@ Experiments were conducted using T4 GPU instances on Google Colab, with the base
 
 <p align="center">
     <img src="auxil/instructions.png">
+    <img src="auxil/format.png">
 </p>
