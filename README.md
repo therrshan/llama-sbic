@@ -20,3 +20,5 @@ Experiments were conducted using T4 GPU instances on Google Colab, with the base
     <img src="auxil/instructions.png">
     <img src="auxil/format.png">
 </p>
+
+Results showed significant improvements over baselines across all features tested. However, the fine-tuned models did not achieve state-of-the-art performance, indicating room for improvement. The study highlights challenges in bias detection, generalizability concerns, and the need for diverse annotations. Ethical considerations, including the risk of perpetuating biases and potential societal impacts, are also discussed.
